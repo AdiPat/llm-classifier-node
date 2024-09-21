@@ -11,7 +11,7 @@
 
     "paths": {
       "*": ["node_modules/*"],
-      "@avski/*": ["*"]
+      "@llm-classifier-node/*": ["*"]
     },
     "jsx": "react",
     "types": ["react", "jest", "node"],
